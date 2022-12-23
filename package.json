@@ -1,0 +1,31 @@
+{
+  "name": "code-aur-chai---raja",
+  "displayName": "code aur chai - Raja",
+  "description": "In india most of developer are drink chai during or before writing code.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon/icon-code-aur-chai.png",
+  "author": {
+    "name": "Raja kumar",
+    "email": "rajaji12102000@gmail.com",
+    "url": "https://www.linkedin.com/in/raja-kumar-545526186"
+  },
+  "repository": {
+    "url": "https://github.com/rajabca04/chai-aur-code---Raja",
+    "type": "github"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Code aur chai",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Code aur chai-color-theme.json"
+      }
+    ]
+  }
+}
